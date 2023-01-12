@@ -39,13 +39,9 @@
 
 <div class="w-full flex flex-col items-center gap-2 pb-16 pt-6 lg:px-12 px-5 text-[13px] bg-[#111111] text-white">
 	<div class="w-full max-w-[1020px] flex flex-col items-start gap-2 mt-12 mb-6">
-		<div class="flex flex-row items-end">
-			<img
-				src="logo.svg"
-				alt="Noir UI- Accessible Components Toolkit"
-				class="w-full max-w-[200px]"
-			/>
-			<h3 class="text-base leading-[1rem]">Components made easy</h3>
+		<div class="flex flex-row gap-4 items-end">
+            <h1 class="font-medium leading-[0.9] text-7xl">Noir UI</h1>
+			<h3 class="text-xl">Accessible components made easy.</h3>
 		</div>
 	</div>
 	<div class="grid md:grid-cols-12 grid-cols-8 max-w-[1020px] w-full gap-5">

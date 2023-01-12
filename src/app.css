@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Clash Display";
+    src: url("ClashDisplay-Variable.woff") format("woff");
+    font-style: normal;
+  }
